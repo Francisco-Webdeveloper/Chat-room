@@ -80,5 +80,5 @@ fetch(url, {
 
 Time to automatically refresh our app and get rid of that "Refresh Chat" button!
 
-## Other information
+### Other information
 You can also check the code and a preview 👉 https://codepen.io/francisco-frontend/full/YzVxLOQ
