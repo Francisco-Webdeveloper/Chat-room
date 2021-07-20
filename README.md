@@ -8,6 +8,20 @@ This exercise requires both http `GET` and `POST` requests to an API code. We'll
 
 ![Highlights Gif](https://raw.githubusercontent.com/lewagon/fullstack-images/master/frontend/chat-room.gif)
 
+## Setup
+
+Go to the Terminal, choose a directory where you wish to clone the repository and run:
+```bash
+git clone git@github.com:Francisco-Webdeveloper/Chat-room.git
+yarn install
+```
+Launch your local webserver with:
+
+```bash
+rake webpack
+```
+Then open [`localhost:8080`](http://localhost:8080) to test the code in the browser
+
 ## Resources
 The [documentation of the wagon-chat API](https://github.com/lewagon/wagon-chat-api/blob/master/README.md)
 
